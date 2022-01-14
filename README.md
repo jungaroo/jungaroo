@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+This is collection of learning projects.
+
+Here you'll find mostly Python, Javascript/Typescript (React mostly) projects.
+
 <!--
 **jungaroo/jungaroo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
